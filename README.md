@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeghaKhairnar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MeghaKhairnar/DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/MeghaKhairnar/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/MeghaKhairnar/DSA/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/MeghaKhairnar/DSA/tree/master/0048-rotate-image) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeghaKhairnar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MeghaKhairnar/DSA/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/MeghaKhairnar/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
