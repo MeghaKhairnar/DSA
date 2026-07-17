@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MeghaKhairnar/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeghaKhairnar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MeghaKhairnar/DSA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/MeghaKhairnar/DSA/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeghaKhairnar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/MeghaKhairnar/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
 | [0881-boats-to-save-people](https://github.com/MeghaKhairnar/DSA/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
@@ -90,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MeghaKhairnar/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
