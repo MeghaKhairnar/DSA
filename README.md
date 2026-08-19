@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MeghaKhairnar/DSA/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/MeghaKhairnar/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MeghaKhairnar/DSA/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0113-path-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MeghaKhairnar/DSA/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
