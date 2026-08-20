@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MeghaKhairnar/DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/MeghaKhairnar/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/MeghaKhairnar/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/MeghaKhairnar/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MeghaKhairnar/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MeghaKhairnar/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/MeghaKhairnar/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MeghaKhairnar/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0113-path-sum-ii) |
