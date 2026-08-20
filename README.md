@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/MeghaKhairnar/DSA/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeghaKhairnar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0216-combination-sum-iii](https://github.com/MeghaKhairnar/DSA/tree/master/0216-combination-sum-iii) |
 | [0485-max-consecutive-ones](https://github.com/MeghaKhairnar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0766-toeplitz-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0766-toeplitz-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/MeghaKhairnar/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MeghaKhairnar/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/MeghaKhairnar/DSA/tree/master/0216-combination-sum-iii) |
 ## Two Pointers
 |  |
 | ------- |
