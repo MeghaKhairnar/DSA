@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeghaKhairnar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/MeghaKhairnar/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MeghaKhairnar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/MeghaKhairnar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0766-toeplitz-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0766-toeplitz-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MeghaKhairnar/DSA/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeghaKhairnar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/MeghaKhairnar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MeghaKhairnar/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeghaKhairnar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MeghaKhairnar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/MeghaKhairnar/DSA/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Number Theory
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/MeghaKhairnar/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/MeghaKhairnar/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -208,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MeghaKhairnar/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MeghaKhairnar/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MeghaKhairnar/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
