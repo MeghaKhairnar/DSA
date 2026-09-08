@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MeghaKhairnar/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MeghaKhairnar/DSA/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/MeghaKhairnar/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MeghaKhairnar/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0090-subsets-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/MeghaKhairnar/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/MeghaKhairnar/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MeghaKhairnar/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0766-toeplitz-matrix) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeghaKhairnar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/MeghaKhairnar/DSA/tree/master/0367-valid-perfect-square) |
