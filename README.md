@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MeghaKhairnar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MeghaKhairnar/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/MeghaKhairnar/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/MeghaKhairnar/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MeghaKhairnar/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/MeghaKhairnar/DSA/tree/master/0048-rotate-image) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MeghaKhairnar/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/MeghaKhairnar/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/MeghaKhairnar/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MeghaKhairnar/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MeghaKhairnar/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/MeghaKhairnar/DSA/tree/master/0077-combinations) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MeghaKhairnar/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeghaKhairnar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/MeghaKhairnar/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/MeghaKhairnar/DSA/tree/master/0037-sudoku-solver) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MeghaKhairnar/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MeghaKhairnar/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -296,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MeghaKhairnar/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MeghaKhairnar/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MeghaKhairnar/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
