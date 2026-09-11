@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MeghaKhairnar/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MeghaKhairnar/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/MeghaKhairnar/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MeghaKhairnar/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MeghaKhairnar/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MeghaKhairnar/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/MeghaKhairnar/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MeghaKhairnar/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MeghaKhairnar/DSA/tree/master/0079-word-search) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MeghaKhairnar/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MeghaKhairnar/DSA/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/MeghaKhairnar/DSA/tree/master/0658-find-k-closest-elements) |
