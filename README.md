@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MeghaKhairnar/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MeghaKhairnar/DSA/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/MeghaKhairnar/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MeghaKhairnar/DSA/tree/master/0079-word-search) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/MeghaKhairnar/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/MeghaKhairnar/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MeghaKhairnar/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
