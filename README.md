@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MeghaKhairnar/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/MeghaKhairnar/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MeghaKhairnar/DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/MeghaKhairnar/DSA/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/MeghaKhairnar/DSA/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/MeghaKhairnar/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/MeghaKhairnar/DSA/tree/master/0509-fibonacci-number) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MeghaKhairnar/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MeghaKhairnar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MeghaKhairnar/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/MeghaKhairnar/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeghaKhairnar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MeghaKhairnar/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MeghaKhairnar/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
