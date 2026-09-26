@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MeghaKhairnar/DSA/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/MeghaKhairnar/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MeghaKhairnar/DSA/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/MeghaKhairnar/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/MeghaKhairnar/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Simulation
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeghaKhairnar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/MeghaKhairnar/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MeghaKhairnar/DSA/tree/master/0037-sudoku-solver) |
+| [0290-word-pattern](https://github.com/MeghaKhairnar/DSA/tree/master/0290-word-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MeghaKhairnar/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MeghaKhairnar/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
