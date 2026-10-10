@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/MeghaKhairnar/DSA/tree/master/0658-find-k-closest-elements) |
 | [0766-toeplitz-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0766-toeplitz-matrix) |
 | [0881-boats-to-save-people](https://github.com/MeghaKhairnar/DSA/tree/master/0881-boats-to-save-people) |
+| [0994-rotting-oranges](https://github.com/MeghaKhairnar/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeghaKhairnar/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MeghaKhairnar/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MeghaKhairnar/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0766-toeplitz-matrix) |
+| [0994-rotting-oranges](https://github.com/MeghaKhairnar/DSA/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/MeghaKhairnar/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MeghaKhairnar/DSA/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MeghaKhairnar/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0994-rotting-oranges](https://github.com/MeghaKhairnar/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
