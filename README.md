@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/MeghaKhairnar/DSA/tree/master/0509-fibonacci-number) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/MeghaKhairnar/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [1143-longest-common-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/MeghaKhairnar/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/MeghaKhairnar/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [1143-longest-common-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -405,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
