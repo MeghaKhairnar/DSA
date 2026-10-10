@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/MeghaKhairnar/DSA/tree/master/0658-find-k-closest-elements) |
 | [0766-toeplitz-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0766-toeplitz-matrix) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/MeghaKhairnar/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0881-boats-to-save-people](https://github.com/MeghaKhairnar/DSA/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/MeghaKhairnar/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeghaKhairnar/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MeghaKhairnar/DSA/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/MeghaKhairnar/DSA/tree/master/0509-fibonacci-number) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/MeghaKhairnar/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 ## Math
 |  |
 | ------- |
