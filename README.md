@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MeghaKhairnar/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MeghaKhairnar/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MeghaKhairnar/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MeghaKhairnar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/MeghaKhairnar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0283-move-zeroes) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/MeghaKhairnar/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MeghaKhairnar/DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/MeghaKhairnar/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MeghaKhairnar/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/MeghaKhairnar/DSA/tree/master/0290-word-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MeghaKhairnar/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MeghaKhairnar/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MeghaKhairnar/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MeghaKhairnar/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/MeghaKhairnar/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MeghaKhairnar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MeghaKhairnar/DSA/tree/master/0237-delete-node-in-a-linked-list) |
