@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MeghaKhairnar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MeghaKhairnar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/MeghaKhairnar/DSA/tree/master/0658-find-k-closest-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/MeghaKhairnar/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/MeghaKhairnar/DSA/tree/master/0509-fibonacci-number) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/MeghaKhairnar/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1143-longest-common-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/1143-longest-common-subsequence) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/MeghaKhairnar/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/MeghaKhairnar/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0474-ones-and-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0474-ones-and-zeroes) |
 | [1143-longest-common-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
@@ -416,4 +419,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
