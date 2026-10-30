@@ -428,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0474-ones-and-zeroes) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/MeghaKhairnar/DSA/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
