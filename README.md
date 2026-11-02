@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/MeghaKhairnar/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MeghaKhairnar/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MeghaKhairnar/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MeghaKhairnar/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/2815-max-pair-sum-in-an-array) |
 ## Divide and Conquer
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MeghaKhairnar/DSA/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/MeghaKhairnar/DSA/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/MeghaKhairnar/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MeghaKhairnar/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/MeghaKhairnar/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MeghaKhairnar/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MeghaKhairnar/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
 | ------- |
