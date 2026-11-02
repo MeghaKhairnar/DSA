@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MeghaKhairnar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MeghaKhairnar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MeghaKhairnar/DSA/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/MeghaKhairnar/DSA/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/MeghaKhairnar/DSA/tree/master/0367-valid-perfect-square) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/MeghaKhairnar/DSA/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MeghaKhairnar/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3870-count-commas-in-range](https://github.com/MeghaKhairnar/DSA/tree/master/3870-count-commas-in-range) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/MeghaKhairnar/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/MeghaKhairnar/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/MeghaKhairnar/DSA/tree/master/0881-boats-to-save-people) |
