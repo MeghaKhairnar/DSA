@@ -166,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0474-ones-and-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0474-ones-and-zeroes) |
 | [1143-longest-common-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/1143-longest-common-subsequence) |
+| [2390-removing-stars-from-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0059-spiral-matrix-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MeghaKhairnar/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/MeghaKhairnar/DSA/tree/master/0234-palindrome-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
