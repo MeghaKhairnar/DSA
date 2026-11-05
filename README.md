@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MeghaKhairnar/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0474-ones-and-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0474-ones-and-zeroes) |
+| [0771-jewels-and-stones](https://github.com/MeghaKhairnar/DSA/tree/master/0771-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MeghaKhairnar/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/MeghaKhairnar/DSA/tree/master/0771-jewels-and-stones) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MeghaKhairnar/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2815-max-pair-sum-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/2815-max-pair-sum-in-an-array) |
 ## Recursion
