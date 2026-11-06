@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0474-ones-and-zeroes) |
 | [0771-jewels-and-stones](https://github.com/MeghaKhairnar/DSA/tree/master/0771-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/MeghaKhairnar/DSA/tree/master/1143-longest-common-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MeghaKhairnar/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/MeghaKhairnar/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/MeghaKhairnar/DSA/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeghaKhairnar/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MeghaKhairnar/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bit Manipulation
 |  |
 | ------- |
