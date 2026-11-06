@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MeghaKhairnar/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/MeghaKhairnar/DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/MeghaKhairnar/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MeghaKhairnar/DSA/tree/master/0079-word-search) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MeghaKhairnar/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/MeghaKhairnar/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/MeghaKhairnar/DSA/tree/master/0200-number-of-islands) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeghaKhairnar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/MeghaKhairnar/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MeghaKhairnar/DSA/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/MeghaKhairnar/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MeghaKhairnar/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/MeghaKhairnar/DSA/tree/master/0290-word-pattern) |
