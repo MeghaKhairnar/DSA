@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/MeghaKhairnar/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/MeghaKhairnar/DSA/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/MeghaKhairnar/DSA/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0766-toeplitz-matrix) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/MeghaKhairnar/DSA/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0881-boats-to-save-people](https://github.com/MeghaKhairnar/DSA/tree/master/0881-boats-to-save-people) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MeghaKhairnar/DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/MeghaKhairnar/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeghaKhairnar/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Union-Find
 |  |
