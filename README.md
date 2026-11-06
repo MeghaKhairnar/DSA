@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/MeghaKhairnar/DSA/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/MeghaKhairnar/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeghaKhairnar/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/MeghaKhairnar/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/MeghaKhairnar/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MeghaKhairnar/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
