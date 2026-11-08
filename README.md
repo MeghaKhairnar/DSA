@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/MeghaKhairnar/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/MeghaKhairnar/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/MeghaKhairnar/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MeghaKhairnar/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MeghaKhairnar/DSA/tree/master/0055-jump-game) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeghaKhairnar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/MeghaKhairnar/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/MeghaKhairnar/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/MeghaKhairnar/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MeghaKhairnar/DSA/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/MeghaKhairnar/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MeghaKhairnar/DSA/tree/master/0125-valid-palindrome) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeghaKhairnar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/MeghaKhairnar/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MeghaKhairnar/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/MeghaKhairnar/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/MeghaKhairnar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/MeghaKhairnar/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MeghaKhairnar/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MeghaKhairnar/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MeghaKhairnar/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/MeghaKhairnar/DSA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MeghaKhairnar/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
