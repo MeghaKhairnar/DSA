@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MeghaKhairnar/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/MeghaKhairnar/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/MeghaKhairnar/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/MeghaKhairnar/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/MeghaKhairnar/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MeghaKhairnar/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/MeghaKhairnar/DSA/tree/master/0069-sqrtx) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeghaKhairnar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/MeghaKhairnar/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/MeghaKhairnar/DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/MeghaKhairnar/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/MeghaKhairnar/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MeghaKhairnar/DSA/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/MeghaKhairnar/DSA/tree/master/0079-word-search) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MeghaKhairnar/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MeghaKhairnar/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MeghaKhairnar/DSA/tree/master/0059-spiral-matrix-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/MeghaKhairnar/DSA/tree/master/2390-removing-stars-from-a-string) |
