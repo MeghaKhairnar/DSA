@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeghaKhairnar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MeghaKhairnar/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/MeghaKhairnar/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/MeghaKhairnar/DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/MeghaKhairnar/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MeghaKhairnar/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MeghaKhairnar/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/MeghaKhairnar/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/MeghaKhairnar/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/MeghaKhairnar/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MeghaKhairnar/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MeghaKhairnar/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/MeghaKhairnar/DSA/tree/master/0148-sort-list) |
