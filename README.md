@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MeghaKhairnar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MeghaKhairnar/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MeghaKhairnar/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/MeghaKhairnar/DSA/tree/master/0101-symmetric-tree) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MeghaKhairnar/DSA/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MeghaKhairnar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MeghaKhairnar/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MeghaKhairnar/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/MeghaKhairnar/DSA/tree/master/0101-symmetric-tree) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MeghaKhairnar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MeghaKhairnar/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MeghaKhairnar/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/MeghaKhairnar/DSA/tree/master/0101-symmetric-tree) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MeghaKhairnar/DSA/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MeghaKhairnar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MeghaKhairnar/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/MeghaKhairnar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/MeghaKhairnar/DSA/tree/master/0456-132-pattern) |
